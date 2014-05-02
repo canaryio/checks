@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require 'aws-sdk'
+require 'json'
+
+yaml = YAML.load(File.read('./checks.yml'))
+json = JSON.pretty_generate(yaml)
+
+s3 = AWS::S3.new
+
+bucket = s3.buckets['canary-public-data']
+
+obj = bucket.objects['checks.json']
+obj.write(json)
+obj.acl = :public_read

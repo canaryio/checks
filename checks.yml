@@ -1,0 +1,7 @@
+---
+- id: http-github.com
+  url: http://github.com
+- id: https-github.com
+  url: https://github.com
+- id: http-git-io
+  url: http://git.io/tVDpSw
