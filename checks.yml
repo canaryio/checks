@@ -3,5 +3,7 @@
   url: http://github.com
 - id: https-github.com
   url: https://github.com
-- id: http-git-io
+- id: http-git.io
   url: http://git.io/tVDpSw
+- id: https-gist.github.com
+  url: https://gist.github.com/
