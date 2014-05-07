@@ -9,4 +9,8 @@
   url: https://gist.github.com
 - id: https-cloud-01.edu.cybera.ca
   url: https://cloud-01.edu.cybera.ca
+- id: http-www.yelp.com
+  url: http://www.yelp.com
+- id: https-www.yelp.com
+  url: https://www.yelp.com
 
