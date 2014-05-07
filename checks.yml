@@ -15,3 +15,5 @@
   url: https://www.yelp.com
 - id: https-tubesandlube.com
   url: https://tubesandlube.com
+- id: http-nbviewer.ipython.org
+  url: http://nbviewer.ipython.org
