@@ -19,3 +19,5 @@
   url: http://nbviewer.ipython.org
 - id: https-www.hostedgraphite.com
   url: https://www.hostedgraphite.com
+- id: http-www.indeed.com
+  url: http://www.indeed.com
