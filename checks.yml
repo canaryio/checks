@@ -7,6 +7,8 @@
   url: http://git.io/tVDpSw
 - id: https-gist.github.com
   url: https://gist.github.com
+- id: https-live.github.com
+  url: https://live.github.com/_ping
 - id: https-cloud-01.edu.cybera.ca
   url: https://cloud-01.edu.cybera.ca
 - id: http-www.yelp.com
