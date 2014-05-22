@@ -23,3 +23,5 @@
   url: https://www.hostedgraphite.com
 - id: http-www.indeed.com
   url: http://www.indeed.com
+- id: http-obfuscurity.com
+  url: http://obfuscurity.com
