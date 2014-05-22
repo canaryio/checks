@@ -27,3 +27,5 @@
   url: http://obfuscurity.com
 - id: http-www.unwiredcouch.com
   url: http://www.unwiredcouch.com
+- id: http-developer.mozilla.org
+  url: https://developer.mozilla.org/en-US/
