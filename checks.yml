@@ -29,3 +29,7 @@
   url: http://www.unwiredcouch.com
 - id: http-developer.mozilla.org
   url: https://developer.mozilla.org/en-US/
+- id: http-www.octolabs.com
+  url: http://www.octolabs.com
+- id: http-www.cloudhdr.com
+  url: http://www.cloudhdr.com
