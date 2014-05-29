@@ -35,3 +35,5 @@
   url: http://www.octolabs.com
 - id: http-www.cloudhdr.com
   url: http://www.cloudhdr.com
+- id: https-api.canary.io-health
+  url: https://api.canary.io/health
