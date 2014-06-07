@@ -39,3 +39,5 @@
   url: https://api.canary.io/health
 - id: https-bank.simple.com-signin
   url: https://bank.simple.com/signin
+- id: http-conube.com.br
+  url: http://conube.com.br
