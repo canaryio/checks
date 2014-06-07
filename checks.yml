@@ -38,4 +38,4 @@
 - id: https-api.canary.io-health
   url: https://api.canary.io/health
 - id: http-conube.com.br
-  url: http://.conube.com.br
+  url: http://conube.com.br
