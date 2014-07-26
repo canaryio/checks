@@ -21,6 +21,8 @@
   url: http://nbviewer.ipython.org
 - id: http-developer.rackspace.com
   url: http://developer.rackspace.com
+- id: https-developer.rackspace.com
+  url: https://developer.rackspace.com
 - id: https-www.hostedgraphite.com
   url: https://www.hostedgraphite.com
 - id: http-www.indeed.com
