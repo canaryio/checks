@@ -43,3 +43,7 @@
   url: https://bank.simple.com/signin
 - id: http-conube.com.br
   url: http://conube.com.br
+- id: http-bit.ly
+  url:  http://bit.ly
+- id: https-bit.ly
+  url:  https://bit.ly
