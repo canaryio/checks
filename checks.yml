@@ -43,3 +43,7 @@
   url: https://bank.simple.com/signin
 - id: http-conube.com.br
   url: http://conube.com.br
+- id : http-www.marktplaats.nl
+  url: http://www.marktplaats.nl
+- id: http-www.kijiji.ca
+  url: http://www.kijiji.ca
