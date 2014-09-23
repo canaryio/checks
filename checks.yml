@@ -47,3 +47,9 @@
   url:  http://bit.ly
 - id: https-bit.ly
   url:  https://bit.ly
+- id: http-openstack.org
+  url: http://www.openstack.org
+- id: http-review.openstack.org
+  url: https://review.openstack.org
+- id: http-zuul.openstack.org
+  url: http://zuul.openstack.org/
