@@ -43,3 +43,5 @@
   url: https://bank.simple.com/signin
 - id: http-conube.com.br
   url: http://conube.com.br
+- id: https-disqus.com
+  url: https://disqus.com
