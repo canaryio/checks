@@ -53,3 +53,5 @@
   url: https://review.openstack.org
 - id: http-zuul.openstack.org
   url: http://zuul.openstack.org/
+- id: https-disqus.com
+  url: https://disqus.com
