@@ -55,3 +55,7 @@
   url: http://zuul.openstack.org/
 - id: https-disqus.com
   url: https://disqus.com
+- id : http-www.marktplaats.nl
+  url: http://www.marktplaats.nl
+- id: http-www.kijiji.ca
+  url: http://www.kijiji.ca
